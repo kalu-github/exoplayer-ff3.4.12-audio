@@ -1,0 +1,8 @@
+.idea
+.gradle
+/extra/ffmpeg/
+/android/contrib/build/
+/android/contrib/ffmpeg-arm64/
+/android/contrib/ffmpeg-armv7a/
+/android/contrib/ffmpeg-x86/
+/android/contrib/ffmpeg-x86_64/
